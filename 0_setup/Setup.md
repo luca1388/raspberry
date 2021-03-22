@@ -1,0 +1,2 @@
+# WiFi configuration
+In the root folder of the microSD card paste the file `wpa_supplicant.conf` with information of your WiFi ssid and password. In this way your Raspberry can automatically join the network without connecting keyboards and mouse to the board.
